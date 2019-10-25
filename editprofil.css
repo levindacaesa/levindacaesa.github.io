@@ -1,0 +1,62 @@
+body{
+  padding-top: 15px;
+  background-image: url(cloudsclt2.jpeg);
+}
+
+form {
+  height: 600px;
+  width: 400px;
+  background-color: #85e085;
+  vertical-align: middle;
+  border-radius: 10px;
+  margin : 0 auto;
+}
+
+form h1 {
+    font-family: "Times New Roman";
+    text-transform: uppercase;
+    color: #006600;
+}
+
+form table {
+  padding-left: 10px;
+}
+
+form h1{
+  text-align: center;
+  padding-top: 20px
+}
+
+form input[type="submit"] {
+  font-family: "Adobe Gothic Std B";
+  cursor: pointer;
+  background: #006600;
+  color: #85e085;
+  text-transform: uppercase;
+  border-radius: 20px;
+}
+
+form .box {
+  padding-left: 150px;
+  padding-top: 20px;
+}
+
+form table td {
+  padding-top: 20px;
+}
+
+form img {
+  border-radius: 50%;
+  padding-left: 10px;
+  vertical-align: middle;
+}
+
+form p {
+  display: inline;
+  padding-left: 20px;
+  color: #006600;
+}
+
+form a {
+    text-decoration:none;
+}

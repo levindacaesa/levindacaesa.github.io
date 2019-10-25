@@ -1,0 +1,80 @@
+body {
+  background: url(cloudsclt2.jpeg);
+  repeat: no-repeat;
+  background-size: cover;
+}
+
+.box table {
+font-family: 'Imprima', sans-serif;
+  font-size: 18;
+}
+
+.box table tr,
+.box table td {
+  padding: 10px 20px;
+}
+
+.box img {
+  vertical-align: middle;
+  border-radius: 50px;
+}
+
+.box h4 {
+  font-family: 'Imprima', sans-serif;
+  font-size: 20;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  display: inline-flex;
+}
+
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  padding: 45px;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #375017;
+  border-width: 5px;
+
+}
+
+.box4 {
+  position: absolute;
+  top: 83%;
+  left: 55%;
+  padding-top: 5px;
+}
+
+.box4  input[type="submit"]
+{
+  font-family: "Adobe Gothic Std B";
+  cursor: pointer;
+  background: #006600;
+  color: #85e085;
+  text-transform: uppercase;
+  border-radius: 20px;
+  padding: 15px;
+}
+
+.box5 {
+  position: absolute;
+  top: 83%;
+  left: 35%;
+  padding-top: 5px;
+}
+
+.box5  input[type="submit"]
+{
+  font-family: "Adobe Gothic Std B";
+  cursor: pointer;
+  background: #006600;
+  color: #85e085;
+  text-transform: uppercase;
+  border-radius: 20px;
+  padding: 15px;
+}
